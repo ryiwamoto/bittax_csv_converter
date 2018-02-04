@@ -1,0 +1,78 @@
+body {}
+
+.exchange-box {
+  width: 30%;
+  margin: 1%;
+  padding: 0;
+}
+
+.exchange-box__title {
+  width: 100%;
+  padding: 1rem 2rem;
+  border-radius: 5px 5px 0 0;
+  font-weight: bold;
+}
+
+.exchange-box__title--bitbank {
+  color: white;
+  background: #16877C;
+}
+
+.exchange-box__title--zaif {
+  color: white;
+  background: #377BB5;
+}
+
+.exchange-box__inner-box {
+  padding: 1rem 2rem;
+  border: 1px solid #888;
+  border-radius: 0 0 5px 5px;
+}
+
+.exchange-box__file-chose-button {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.exchange-box__drag-and-drop {
+  text-align: center;
+  border: 1px dashed #b7b7b7;
+  color: #b7b7b7;
+  font-weight: bold;
+  width: 100%;
+  padding: 2rem 1rem;
+}
+
+.exchange-box__csv-list {
+  margin-top: 1rem;
+}
+
+.convert-button {
+  width: 100%;
+}
+
+.result-link {
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.header {
+  padding: 1rem;
+}
+
+.github-link-container {
+  text-align: right;
+  padding: 0.1rem;
+}
+
+.github-link {
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+}
+
+.tipmona {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 1rem;
+}
